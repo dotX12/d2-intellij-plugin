@@ -24,4 +24,4 @@ Please note that the plugin is being developed and tested for 2023.2 and higher,
 - Manually:
 
   Download the [latest release](https://github.com/develar/d2-intellij-plugin/releases/latest) and install it manually using
-  <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>⚙️</kbd> > <kbd>Install plugin from disk...</kbd>
+  <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>⚙️</kbd> > <kbd>Install plugin from disk...</kbd>.
